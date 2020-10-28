@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\DateAddTime\DateAddTime\bin\Debug\netcoreapp3.1\DateAddTime.exe
+C:\Users\Roland Strod\source\repos\DateAddTime\DateAddTime\bin\Debug\netcoreapp3.1\DateAddTime.deps.json
+C:\Users\Roland Strod\source\repos\DateAddTime\DateAddTime\bin\Debug\netcoreapp3.1\DateAddTime.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\DateAddTime\DateAddTime\bin\Debug\netcoreapp3.1\DateAddTime.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\DateAddTime\DateAddTime\bin\Debug\netcoreapp3.1\DateAddTime.dll
+C:\Users\Roland Strod\source\repos\DateAddTime\DateAddTime\bin\Debug\netcoreapp3.1\DateAddTime.pdb
+C:\Users\Roland Strod\source\repos\DateAddTime\DateAddTime\obj\Debug\netcoreapp3.1\DateAddTime.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\DateAddTime\DateAddTime\obj\Debug\netcoreapp3.1\DateAddTime.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\DateAddTime\DateAddTime\obj\Debug\netcoreapp3.1\DateAddTime.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\DateAddTime\DateAddTime\obj\Debug\netcoreapp3.1\DateAddTime.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\DateAddTime\DateAddTime\obj\Debug\netcoreapp3.1\DateAddTime.dll
+C:\Users\Roland Strod\source\repos\DateAddTime\DateAddTime\obj\Debug\netcoreapp3.1\DateAddTime.pdb
+C:\Users\Roland Strod\source\repos\DateAddTime\DateAddTime\obj\Debug\netcoreapp3.1\DateAddTime.genruntimeconfig.cache

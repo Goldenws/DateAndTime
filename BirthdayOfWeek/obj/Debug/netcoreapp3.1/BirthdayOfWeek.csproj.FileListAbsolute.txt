@@ -1,0 +1,13 @@
+C:\Users\Roland Strod\source\repos\DateAddTime\BirthdayOfWeek\bin\Debug\netcoreapp3.1\BirthdayOfWeek.exe
+C:\Users\Roland Strod\source\repos\DateAddTime\BirthdayOfWeek\bin\Debug\netcoreapp3.1\BirthdayOfWeek.deps.json
+C:\Users\Roland Strod\source\repos\DateAddTime\BirthdayOfWeek\bin\Debug\netcoreapp3.1\BirthdayOfWeek.runtimeconfig.json
+C:\Users\Roland Strod\source\repos\DateAddTime\BirthdayOfWeek\bin\Debug\netcoreapp3.1\BirthdayOfWeek.runtimeconfig.dev.json
+C:\Users\Roland Strod\source\repos\DateAddTime\BirthdayOfWeek\bin\Debug\netcoreapp3.1\BirthdayOfWeek.dll
+C:\Users\Roland Strod\source\repos\DateAddTime\BirthdayOfWeek\bin\Debug\netcoreapp3.1\BirthdayOfWeek.pdb
+C:\Users\Roland Strod\source\repos\DateAddTime\BirthdayOfWeek\obj\Debug\netcoreapp3.1\BirthdayOfWeek.csprojAssemblyReference.cache
+C:\Users\Roland Strod\source\repos\DateAddTime\BirthdayOfWeek\obj\Debug\netcoreapp3.1\BirthdayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Roland Strod\source\repos\DateAddTime\BirthdayOfWeek\obj\Debug\netcoreapp3.1\BirthdayOfWeek.AssemblyInfo.cs
+C:\Users\Roland Strod\source\repos\DateAddTime\BirthdayOfWeek\obj\Debug\netcoreapp3.1\BirthdayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Roland Strod\source\repos\DateAddTime\BirthdayOfWeek\obj\Debug\netcoreapp3.1\BirthdayOfWeek.dll
+C:\Users\Roland Strod\source\repos\DateAddTime\BirthdayOfWeek\obj\Debug\netcoreapp3.1\BirthdayOfWeek.pdb
+C:\Users\Roland Strod\source\repos\DateAddTime\BirthdayOfWeek\obj\Debug\netcoreapp3.1\BirthdayOfWeek.genruntimeconfig.cache
